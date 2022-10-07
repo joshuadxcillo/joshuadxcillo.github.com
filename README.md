@@ -6,7 +6,7 @@
     <p> Address 1: Lot 39 Blk 3, Sampaguita st. Lupang Arenda Taytay Rizal</p>
     <p> Address 2: 2418 Osmeña St. Brgy. Poblacion Makati City
     <p>    Mobile: 0947-637-7770/0927-027-9919</p>
-    <p>    E-mail: joshuadacillo097@gmail,com</p>
+    <p>    E-mail: joshuadacillo097@gmail.com</p>
     <h1>OBJECTIVE</h1>
 <p> I want to learn more about working to enhance my skills and knowledge to develop my personality as a career person, 
     A position as an active employee, involving responsibility and working with others as a team member to achieve advancement and growth for the company.
