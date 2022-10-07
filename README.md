@@ -24,8 +24,8 @@
     <h1>EDUCATIONAL ATTAINMENT</h1>
 <p> Primary : Star of Hope Christian School Taytay, Rizal                                                                          2012-2016 </p>
 <p>    Secondary : Star of Hope Christian School Taytay, Rizal                                                                     2016-2020 </p>
-<p>    1st Tertiary Education Sinior High School : Jose Rizal University Mandaluyong, City                                         2020-2021 </p>
-<p>    2nd Tertiary Education  : Daehan College and Business Technology Taytay,Rizal                                               2021-2022 </p>
+<p>    1st Tertiary Education Senior High School : Jose Rizal University Mandaluyong, City                                         2020-2021 </p>
+<p>    2nd Tertiary Education Senior High School : Daehan College and Business Technology Taytay,Rizal                             2021-2022 </p>
     <h1>WORK EXPERIENCE</h1>
 <p> Daehan College and Business Technology Taytay, Rizal </p>
 <p>Teacher's Assitant 05/30/22 </p>
