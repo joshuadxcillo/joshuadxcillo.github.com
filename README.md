@@ -28,7 +28,7 @@
 <p>    2nd Tertiary Education Senior High School : Daehan College and Business Technology Taytay,Rizal                             (2021-2022) </p>
     <h1>WORK EXPERIENCE</h1>
 <p> Daehan College and Business Technology Taytay, Rizal </p>
-<p>Teacher's Assitant 05/30/22 </p>
+<p>Teacher's Assistant 05/30/22 </p>
 <p>* Helped my teachers to record my classmates and other student's grades, attendance, and modules submission from different strands.</p>
 <p>Technical Support 05/30/22
 <p>* I fix and identify the problems of the computers so if they have a problem I report it to the IT Teacher or Admins at the school, and everyday I maintenance the computers to prevent dirt and other things that will destroy the computer.</p>
