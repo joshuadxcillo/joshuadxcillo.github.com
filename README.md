@@ -3,7 +3,8 @@
 
 <h1>Activity No. 2: Curriculum Vitae in Github</h1>
     <h1>DACILLO, JOSHUA ALYSON C.</h1>                                                                                       
-    <p> Address: Lot 39 Blk 3, Sampaguita st. Lupang Arenda Taytay Rizal</p>
+    <p> Address 1: Lot 39 Blk 3, Sampaguita st. Lupang Arenda Taytay Rizal</p>
+    <p> Address 2: 2418 Osmeña St. Brgy. Poblacion Makati City
     <p>    Mobile: 0947-637-7770 </p>
     <p>    E-mail: joshuadacillo097@gmail,com</p>
     <h1>OBJECTIVE</h1>
