@@ -19,8 +19,8 @@
 <p>    Gender		    :  Male </p>
 <p>    Civil Status     :  Single </p>
 <p>    Nationality		:  Filipino </p>
-<p>    Height			:  5'5 </p>
-<p>    Weight		    :  77’ kg        </p>
+<p>    Height			:  5'7 </p>
+<p>    Weight		    :  70’ kg        </p>
     <h1>EDUCATIONAL ATTAINMENT</h1>
 <p> Primary : Star of Hope Christian School Taytay, Rizal                                                                          2012-2016 </p>
 <p>    Secondary : Star of Hope Christian School Taytay, Rizal                                                                     2016-2020 </p>
